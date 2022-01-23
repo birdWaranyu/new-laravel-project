@@ -18,7 +18,7 @@ Route::get('/', function () {
 });
 
 Route::get('/test', function () {
-    echo "hello my waranyu";
+    echo "Hello...";
 });
 
 Route::get('list', function () {
